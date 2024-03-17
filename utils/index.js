@@ -7,6 +7,16 @@ const removePropFromAlbum = (album) => {
     songCount: album.tracks.length,
   };
 };
+const removePropFromSong = (song) => {
+  return {
+    name: song.name,
+    artist: song.artist,
+    duration: song.duration,
+    lyrics: song.lyrics,
+    album: song.album,
+  };
+};
 module.exports = {
   removePropFromAlbum,
+  removePropFromSong,
 };
