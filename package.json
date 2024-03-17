@@ -1,6 +1,6 @@
 {
   "name": "taylor-swift",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Taylor swift songs, albums and quotes",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lakshaykamat/taylor-swift.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "taylor siwft"
