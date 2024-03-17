@@ -1,30 +1,14 @@
-const {
-  getAlbumByYear,
-  getAlbumNames,
-  getAlbumSongs,
-  getAlbum,
-} = require("./lib/album");
-const {
-  getSongNames,
-  getRandomSong,
-  getLyrics,
-  getSong,
-} = require("./lib/song");
+const album = require("./lib/album");
+const song = require("./lib/song");
 
-const taylor = {
-  album: {
-    getAlbumNames,
-    getAlbumSongs,
-    getAlbumByYear,
-    getAlbum,
-  },
-  song: {
-    getSongNames,
-    getRandomSong,
-    getLyrics,
-    getSong,
-  },
+const taylorAlbums = require("./database/ALBUM_AND_SONGS");
+const taylorSongs = require("./database/SONGS");
+
+const TAYLOR = {
+  albums: taylorAlbums,
+  songs: taylorSongs,
+  album,
+  song,
 };
 
-module.exports = taylor;
-module.exports = { song: taylor.song, album: taylor.album };
+module.exports = TAYLOR;
