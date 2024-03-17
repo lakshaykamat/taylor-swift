@@ -5,3 +5,6 @@ lib/song/getSongNames.js
 lib/album/getAlbumNames.js
 
 database/quotes.json
+/database/songs.json
+/database/quotes.json
+/database/albums.json
