@@ -1,9 +1,17 @@
-const { getAlbumByYear, getAlbums } = require("./lib/album");
-const { getSongNames, getRandomSong } = require("./lib/song");
-
-module.exports = {
+const {
   getAlbumByYear,
-  getAlbums,
+  getAlbumNames,
+  getAlbumSongs,
+  getAlbum,
+} = require("./lib/album");
   getSongNames,
   getRandomSong,
+const taylor = {
+  album: {
+    getAlbumNames,
+    getAlbumSongs,
+    getAlbumByYear,
+    getAlbum,
+  },
 };
+module.exports = taylor;
