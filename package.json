@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lakshay Kamat",
+  "author": {
+    "name": "Lakshay Kamat",
+    "email": "lakshaykamat.dev@gmail.com"
+  },
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lakshaykamat/taylor-swift.git"
+    "url": "https://github.com/lakshaykamat/taylor-swift.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
