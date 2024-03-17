@@ -1,0 +1,5 @@
+lib/album/getAlbums.js
+lib/song/getSongNames.js
+/lib/song/getSongs.js
+
+lib/album/getAlbumNames.js
