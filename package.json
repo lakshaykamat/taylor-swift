@@ -1,0 +1,22 @@
+{
+  "name": "taylor-swift",
+  "version": "1.0.0",
+  "description": "Taylor swift songs, albums and quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lakshay Kamat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshaykamat/taylor-swift.git"
+  },
+  "keywords": [
+    "taylor siwft"
+  ],
+  "bugs": {
+    "url": "https://github.com/lakshaykamat/taylor-swift/issues"
+  },
+  "homepage": "https://github.com/lakshaykamat/taylor-swift#readme"
+}

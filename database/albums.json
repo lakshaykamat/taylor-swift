@@ -1,0 +1,757 @@
+[{
+  "_id": {
+    "$oid": "65e382f7f65e6f5f836d3958"
+  },
+  "title": "Taylor Swift",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png",
+  "artist": "Taylor Swift",
+  "tracks": [
+    {
+      "$oid": "65e382d5f65e6f5f836d3953"
+    },
+    {
+      "$oid": "65e391bdc05d538103b7edd5"
+    },
+    {
+      "$oid": "65e39229c05d538103b7eddc"
+    },
+    {
+      "$oid": "65e3926fc05d538103b7ede0"
+    },
+    {
+      "$oid": "65e39291c05d538103b7ede4"
+    },
+    {
+      "$oid": "65e392a8c05d538103b7ede8"
+    },
+    {
+      "$oid": "65e392c9c05d538103b7edec"
+    },
+    {
+      "$oid": "65e392efc05d538103b7edf0"
+    },
+    {
+      "$oid": "65e3930dc05d538103b7edf4"
+    },
+    {
+      "$oid": "65e39331c05d538103b7edf8"
+    },
+    {
+      "$oid": "65e39348c05d538103b7edfc"
+    },
+    {
+      "$oid": "65e3935dc05d538103b7ee00"
+    },
+    {
+      "$oid": "65e39376c05d538103b7ee04"
+    },
+    {
+      "$oid": "65e39393c05d538103b7ee08"
+    }
+  ],
+  "__v": 15,
+  "releaseDate": [
+    "Oct",
+    24,
+    2006
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e59c3a032efd47905ec3fd"
+  },
+  "title": "Lover",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Aug",
+    23,
+    2019
+  ],
+  "tracks": [
+    {
+      "$oid": "65e5b794032efd47905ec3ff"
+    },
+    {
+      "$oid": "65e709a82688511926337bfa"
+    },
+    {
+      "$oid": "65e709a82688511926337bfe"
+    },
+    {
+      "$oid": "65e709a82688511926337c02"
+    },
+    {
+      "$oid": "65e709a82688511926337c06"
+    },
+    {
+      "$oid": "65e709a92688511926337c0a"
+    },
+    {
+      "$oid": "65e709a92688511926337c0e"
+    },
+    {
+      "$oid": "65e709a92688511926337c12"
+    },
+    {
+      "$oid": "65e709a92688511926337c16"
+    },
+    {
+      "$oid": "65e709a92688511926337c1a"
+    },
+    {
+      "$oid": "65e709a92688511926337c1e"
+    },
+    {
+      "$oid": "65e709a92688511926337c22"
+    },
+    {
+      "$oid": "65e709a92688511926337c26"
+    },
+    {
+      "$oid": "65e709aa2688511926337c2a"
+    },
+    {
+      "$oid": "65e709aa2688511926337c2e"
+    },
+    {
+      "$oid": "65e709aa2688511926337c32"
+    },
+    {
+      "$oid": "65e709aa2688511926337c36"
+    },
+    {
+      "$oid": "65e709aa2688511926337c3a"
+    }
+  ],
+  "__v": 18
+},
+{
+  "_id": {
+    "$oid": "65e7132f480ab528186a8587"
+  },
+  "title": "1989",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/d/d5/Taylor_Swift_-_1989_%28Taylor%27s_Version%29.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Oct",
+    27,
+    2014
+  ],
+  "tracks": [
+    {
+      "$oid": "65e71af3b056ab50c23db2c0"
+    },
+    {
+      "$oid": "65e875f213783a6d5e7c42bf"
+    },
+    {
+      "$oid": "65e87698ab2a2a3615651184"
+    },
+    {
+      "$oid": "65e876c5ab2a2a3615651188"
+    },
+    {
+      "$oid": "65e876fbe7b21100e1aede00"
+    },
+    {
+      "$oid": "65e87735842e4077d456961f"
+    },
+    {
+      "$oid": "65e87ce4842e4077d4569638"
+    },
+    {
+      "$oid": "65e87d92842e4077d4569644"
+    },
+    {
+      "$oid": "65e87da7842e4077d4569648"
+    },
+    {
+      "$oid": "65e87dd1842e4077d456964c"
+    },
+    {
+      "$oid": "65e87dec842e4077d4569650"
+    },
+    {
+      "$oid": "65e87e07842e4077d4569654"
+    },
+    {
+      "$oid": "65e87e1b842e4077d4569658"
+    },
+    {
+      "$oid": "65e88375842e4077d4569686"
+    },
+    {
+      "$oid": "65e8839f842e4077d456968a"
+    },
+    {
+      "$oid": "65e883c0842e4077d456968e"
+    },
+    {
+      "$oid": "65eea8f6b27c2abfabcfe194"
+    },
+    {
+      "$oid": "65eef9de48ab54afc28692ce"
+    },
+    {
+      "$oid": "65eef9de48ab54afc28692d1"
+    },
+    {
+      "$oid": "65eef9df48ab54afc28692d4"
+    },
+    {
+      "$oid": "65eef9df48ab54afc28692d7"
+    }
+  ],
+  "__v": 21
+},
+{
+  "_id": {
+    "$oid": "65eab745d6e46f68fbd70499"
+  },
+  "title": "Fearless",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Nov",
+    11,
+    2008
+  ],
+  "tracks": [
+    {
+      "$oid": "65eabdacd6e46f68fbd7049c"
+    },
+    {
+      "$oid": "65eabdacd6e46f68fbd7049e"
+    },
+    {
+      "$oid": "65eabdacd6e46f68fbd704a0"
+    },
+    {
+      "$oid": "65eabdacd6e46f68fbd704a2"
+    },
+    {
+      "$oid": "65eabdacd6e46f68fbd704a4"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704a6"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704a8"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704aa"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704ac"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704ae"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704b0"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704b2"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704b4"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704b6"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704b8"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704ba"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704bc"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704be"
+    },
+    {
+      "$oid": "65eabdadd6e46f68fbd704c0"
+    },
+    {
+      "$oid": "65eb0bda89d741b17cc34d87"
+    },
+    {
+      "$oid": "65eb0bda89d741b17cc34d89"
+    },
+    {
+      "$oid": "65eb0bda89d741b17cc34d8b"
+    },
+    {
+      "$oid": "65eb0bda89d741b17cc34d8d"
+    },
+    {
+      "$oid": "65eb0bda89d741b17cc34d8f"
+    },
+    {
+      "$oid": "65eb0bda89d741b17cc34d91"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "65eacdf67435605a7c95682e"
+  },
+  "title": "Speak Now",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Taylor_Swift_-_Speak_Now_%28Taylor%27s_Version%29.png/220px-Taylor_Swift_-_Speak_Now_%28Taylor%27s_Version%29.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Oct",
+    25,
+    2010
+  ],
+  "tracks": [
+    {
+      "$oid": "65ead0297435605a7c956831"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9b2"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9b4"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9b6"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9b8"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9ba"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9bc"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9be"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9c0"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9c2"
+    },
+    {
+      "$oid": "65eaf7b19a2f4ec6ef1fb9c4"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9c6"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9c8"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9ca"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9cc"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9ce"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9d0"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9d2"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9d4"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9d6"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9d8"
+    },
+    {
+      "$oid": "65eaf7b29a2f4ec6ef1fb9da"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "65ec44c45b756cdb7c8d520b"
+  },
+  "title": "Red",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Taylor_Swift_-_Red.png/220px-Taylor_Swift_-_Red.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Oct",
+    22,
+    2012
+  ],
+  "tracks": [
+    {
+      "$oid": "65ec4d6a25957437d60e7e75"
+    },
+    {
+      "$oid": "65ec4d6a25957437d60e7e78"
+    },
+    {
+      "$oid": "65ec4d6a25957437d60e7e7b"
+    },
+    {
+      "$oid": "65ec4d6a25957437d60e7e7e"
+    },
+    {
+      "$oid": "65ec4d6a25957437d60e7e81"
+    },
+    {
+      "$oid": "65ec4d6b25957437d60e7e84"
+    },
+    {
+      "$oid": "65ec4d6b25957437d60e7e87"
+    },
+    {
+      "$oid": "65ec4d6b25957437d60e7e8a"
+    },
+    {
+      "$oid": "65ec4d6b25957437d60e7e8d"
+    },
+    {
+      "$oid": "65ec4d6b25957437d60e7e90"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7e93"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7e96"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7e99"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7e9c"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7e9f"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7ea2"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7ea5"
+    },
+    {
+      "$oid": "65ec4d6c25957437d60e7ea8"
+    },
+    {
+      "$oid": "65ec4d6d25957437d60e7eab"
+    },
+    {
+      "$oid": "65ec4d6d25957437d60e7eb1"
+    },
+    {
+      "$oid": "65ec4d6d25957437d60e7eb4"
+    },
+    {
+      "$oid": "65ec4d6d25957437d60e7eb7"
+    },
+    {
+      "$oid": "65ec4d6d25957437d60e7eba"
+    },
+    {
+      "$oid": "65ec4d6d25957437d60e7ebd"
+    },
+    {
+      "$oid": "65ec4d6e25957437d60e7ec0"
+    },
+    {
+      "$oid": "65ec4d6e25957437d60e7ec3"
+    },
+    {
+      "$oid": "65ec4d6e25957437d60e7ec6"
+    },
+    {
+      "$oid": "65ec4d6e25957437d60e7ec9"
+    },
+    {
+      "$oid": "65ec4d6e25957437d60e7ecc"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65ec475926a9a021fc445a68"
+  },
+  "title": "Reputation",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Nov",
+    10,
+    2017
+  ],
+  "tracks": [
+    {
+      "$oid": "65ec4c6a5e5afb47aaee3569"
+    },
+    {
+      "$oid": "65ec4c6a5e5afb47aaee356c"
+    },
+    {
+      "$oid": "65ec4c6a5e5afb47aaee356f"
+    },
+    {
+      "$oid": "65ec4c6a5e5afb47aaee3572"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee3575"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee3578"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee357b"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee357e"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee3581"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee3584"
+    },
+    {
+      "$oid": "65ec4c6b5e5afb47aaee3587"
+    },
+    {
+      "$oid": "65ec4c6c5e5afb47aaee358a"
+    },
+    {
+      "$oid": "65ec4c6c5e5afb47aaee358d"
+    },
+    {
+      "$oid": "65ec4c6c5e5afb47aaee3590"
+    },
+    {
+      "$oid": "65ec4c6c5e5afb47aaee3593"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65ec56a425957437d60e7ed1"
+  },
+  "title": "Folklore",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Jul",
+    24,
+    2020
+  ],
+  "tracks": [
+    {
+      "$oid": "65ec597325957437d60e7ed5"
+    },
+    {
+      "$oid": "65ec597325957437d60e7ed8"
+    },
+    {
+      "$oid": "65ec597325957437d60e7edb"
+    },
+    {
+      "$oid": "65ec597425957437d60e7ede"
+    },
+    {
+      "$oid": "65ec597425957437d60e7ee1"
+    },
+    {
+      "$oid": "65ec597425957437d60e7ee4"
+    },
+    {
+      "$oid": "65ec597425957437d60e7ee7"
+    },
+    {
+      "$oid": "65ec597525957437d60e7eea"
+    },
+    {
+      "$oid": "65ec597525957437d60e7eed"
+    },
+    {
+      "$oid": "65ec597525957437d60e7ef0"
+    },
+    {
+      "$oid": "65ec597525957437d60e7ef3"
+    },
+    {
+      "$oid": "65ec597525957437d60e7ef6"
+    },
+    {
+      "$oid": "65ec597525957437d60e7ef9"
+    },
+    {
+      "$oid": "65ec597525957437d60e7efc"
+    },
+    {
+      "$oid": "65ec597625957437d60e7eff"
+    },
+    {
+      "$oid": "65ec597625957437d60e7f02"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65ec691025957437d60e7f14"
+  },
+  "title": "Midnights",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Oct",
+    21,
+    2022
+  ],
+  "tracks": [
+    {
+      "$oid": "65ec6ae025957437d60e7f18"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f1b"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f1e"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f21"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f24"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f27"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f2a"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f2d"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f30"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f33"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f36"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f39"
+    },
+    {
+      "$oid": "65ec6ae125957437d60e7f3c"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f43"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f46"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f49"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f4c"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f4f"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f52"
+    },
+    {
+      "$oid": "65ec6c4525957437d60e7f55"
+    },
+    {
+      "$oid": "65ec6d3025957437d60e7f60"
+    },
+    {
+      "$oid": "65ec727725957437d60e7f65"
+    }
+  ],
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "65f05f371ca0db0ae5d63492"
+  },
+  "title": "evermore",
+  "albumCover": "https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png",
+  "artist": "Taylor Swift",
+  "releaseDate": [
+    "Dec",
+    11,
+    2020
+  ],
+  "tracks": [
+    {
+      "$oid": "65f062e5f61daf942cc29210"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc29213"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc29216"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc29219"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc2921c"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc2921f"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc29222"
+    },
+    {
+      "$oid": "65f062e5f61daf942cc29225"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc29228"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc2922b"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc2922e"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc29231"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc29234"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc29237"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc2923a"
+    },
+    {
+      "$oid": "65f062e6f61daf942cc2923d"
+    },
+    {
+      "$oid": "65f068031ca0db0ae5d63498"
+    }
+  ],
+  "__v": 2
+}]
