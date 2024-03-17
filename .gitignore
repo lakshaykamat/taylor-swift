@@ -1,10 +1,10 @@
 lib/album/getAlbums.js
 lib/song/getSongNames.js
-/lib/song/getSongs.js
+lib/song/getSongs.js
 
 lib/album/getAlbumNames.js
 
 database/quotes.json
-/database/songs.json
-/database/quotes.json
-/database/albums.json
+database/songs.json
+database/quotes.json
+database/albums.json
