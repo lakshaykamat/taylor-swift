@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/lakshaykamat/taylor-swift.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "taylor siwft"
   ],
