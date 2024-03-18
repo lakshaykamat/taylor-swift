@@ -1,5 +1,3 @@
-# Taylor Swift Library
-
 ![Taylor Swift](https://news.harvard.edu/wp-content/uploads/2023/07/202307x_swift_1407_AP23198726852529.jpg)
 
 ## Introduction
