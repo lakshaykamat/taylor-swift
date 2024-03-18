@@ -3,7 +3,7 @@
     "title": "Taylor Swift",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png",
-    "releaseData": [
+    "releaseDate": [
       "Oct",
       24,
       2006
@@ -113,7 +113,7 @@
     "title": "Lover",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png",
-    "releaseData": [
+    "releaseDate": [
       "Aug",
       23,
       2019
@@ -251,7 +251,7 @@
     "title": "Red",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Taylor_Swift_-_Red.png/220px-Taylor_Swift_-_Red.png",
-    "releaseData": [
+    "releaseDate": [
       "Oct",
       22,
       2012
@@ -466,7 +466,7 @@
     "title": "Fearless",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png",
-    "releaseData": [
+    "releaseDate": [
       "Nov",
       11,
       2008
@@ -653,7 +653,7 @@
     "title": "Speak Now",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Taylor_Swift_-_Speak_Now_%28Taylor%27s_Version%29.png/220px-Taylor_Swift_-_Speak_Now_%28Taylor%27s_Version%29.png",
-    "releaseData": [
+    "releaseDate": [
       "Oct",
       25,
       2010
@@ -819,7 +819,7 @@
     "title": "Midnights",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png",
-    "releaseData": [
+    "releaseDate": [
       "Oct",
       21,
       2022
@@ -985,7 +985,7 @@
     "title": "evermore",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png",
-    "releaseData": [
+    "releaseDate": [
       "Dec",
       11,
       2020
@@ -1116,7 +1116,7 @@
     "title": "Reputation",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png",
-    "releaseData": [
+    "releaseDate": [
       "Nov",
       10,
       2017
@@ -1233,7 +1233,7 @@
     "title": "1989",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/d/d5/Taylor_Swift_-_1989_%28Taylor%27s_Version%29.png",
-    "releaseData": [
+    "releaseDate": [
       "Oct",
       27,
       2014
@@ -1392,7 +1392,7 @@
     "title": "Folklore",
     "artist": "Taylor Swift",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png",
-    "releaseData": [
+    "releaseDate": [
       "Jul",
       24,
       2020
