@@ -12,7 +12,6 @@ const TAYLOR = {
 };
 
 module.exports = TAYLOR;
-console.log(album.filterByYear(2008));
 module.exports = {
   song,
   quote,

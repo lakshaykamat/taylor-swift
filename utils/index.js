@@ -5,8 +5,7 @@ const removePropFromAlbum = (album) => {
     title: album.title,
     releaseDate: album.releaseDate,
     albumCover: album.albumCover,
-    artist: album.artist,
-    songCount: album.tracks.length,
+    artist: album.artist
   };
 };
 const removePropFromSong = (song) => {
