@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Taylor Swift Library Made my Lakshay Kamat</title>
+  </head>
+  <style></style>
+  <body class="">
+    <header
+      class="flex bg-gray-50 border-b py-4 px-4 justify-between items-center"
+    >
+      <h3 class="text-lg font-bold">Taylor Swift</h3>
+      <ol class="flex gap-3">
+        <a href="#album" class="hover:underline">
+          <li>Album</li>
+        </a>
+        <a href="#song" class="hover:underline">
+          <li>Song</li>
+        </a>
+        <a href="#quote" class="hover:underline">
+          <li>Quote</li>
+        </a>
+      </ol>
+    </header>
+    <main class="max-w-xl py-12 px-4 mx-auto">
+      <div class="flex items-center justify-between mb-7">
+        <h1 class="text-3xl font-bold">Taylor Swift Library</h1>
+        <span class="text-2xl">v3.3.0</span>
+      </div>
+      <p>
+        Welcome to the Taylor Swift Library! This npm package provides utilities
+        for Taylor Swift fans, including music, albums, and quotes. Perfect for
+        Swifties and enthusiasts
+      </p>
+      <img
+        class="w-full mx-auto my-3 rounded-lg mb-7"
+        src="https://www.nme.com/wp-content/uploads/2023/06/taylor-swift-2000x1270-1-696x442.jpg"
+        alt="taylor swift"
+      />
+      <div class="mb-5 flex flex-col">
+        <h1 class="text-2xl font-semibold mb-3">Installation</h1>
+        <p class="mb-2">Install the Taylor Swift Library via npm:</p>
+        <code class="bg-gray-200 px-4 py-2 rounded-md"
+          >npm install taylor-swift</code
+        >
+      </div>
+      <div class="mb-5" id="album">
+        <h2 class="text-2xl font-semibold mb-3">Retrive Album</h2>
+        <div class="overflow-x-auto">
+          <table
+            class="min-w-full bg-white shadow-md rounded-lg overflow-hidden"
+          >
+            <thead class="bg-gray-200 text-gray-700">
+              <tr>
+                <th class="py-2 px-4 font-semibold text-left">Function</th>
+                <th class="py-2 px-4 font-semibold text-left">Description</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.album.random()</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns a randomly selected Taylor Swift album.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.album.get(albumName)</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns a specific Taylor Swift album by name.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.album.all()</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns all Taylor Swift albums.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.album.filterByYear(year)</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns albums released by Taylor Swift in a given year.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="mb-5" id="song">
+        <h2 class="text-2xl font-semibold mb-3">Retrive Songs</h2>
+        <div class="overflow-x-auto">
+          <table
+            class="min-w-full bg-white shadow-md rounded-lg overflow-hidden"
+          >
+            <thead class="bg-gray-200 text-gray-700">
+              <tr>
+                <th class="py-2 px-4 font-semibold text-left">Function</th>
+                <th class="py-2 px-4 font-semibold text-left">Description</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.song.random()</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns a random Taylor Swift song.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.song.get(songName)</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns lyrics of a Taylor Swift song by its name.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.song.all()</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns all songs by Taylor Swift.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.song.filterByAlbum(albumName)</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns songs released by Taylor Swift in a specific album.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="mb-5" id="quote">
+        <h2 class="text-2xl font-semibold mb-3">Retrive Quotes</h2>
+        <div class="overflow-x-auto">
+          <table
+            class="min-w-full bg-white shadow-md rounded-lg overflow-hidden"
+          >
+            <thead class="bg-gray-200 text-gray-700">
+              <tr>
+                <th class="py-2 px-4 font-semibold text-left">Function</th>
+                <th class="py-2 px-4 font-semibold text-left">Description</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.quote.random()</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns a randomly selected Taylor Swift quote.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.quote.filterBySong(songName)</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns quotes from a Taylor Swift song by its name.
+                </td>
+              </tr>
+              <tr>
+                <td class="py-2 px-4 border">
+                  <code class="bg-gray-200 px-2 py-1 rounded-md"
+                    >taylor.quote.album(albumName)</code
+                  >
+                </td>
+                <td class="py-2 px-4 border">
+                  Returns all songs by Taylor Swift.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div>
+        <h2 class="text-2xl font-semibold mb-3">Credits</h2>
+        <p>
+          Maintained by
+          <a
+            href="https://github.com/lakshaykamat"
+            class="hover:underline text-blue-500"
+            >Lakshay Kamat</a
+          >, inspired by the work of Taylor Swift and her fans worldwide.
+        </p>
+      </div>
+    </main>
+  </body>
+</html>

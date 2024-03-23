@@ -1,6 +1,6 @@
 {
   "name": "taylor-swift",
-  "version": "3.2.6",
+  "version": "3.3.0",
   "description": "Taylor swift songs, albums and quotes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
