@@ -1,10 +1,20 @@
 {
   "name": "taylor-swift",
-  "version": "3.2.3",
+  "version": "3.2.6",
   "description": "Taylor swift songs, albums and quotes",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type:": "module",
+  "files": [
+    "dist",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "build": "tsc",
+    "start": "node ./dist/index.js",
+    "dev": "ts-node-dev src/index.ts"
   },
   "author": {
     "name": "Lakshay Kamat",
@@ -21,5 +31,17 @@
   "bugs": {
     "url": "https://github.com/lakshaykamat/taylor-swift/issues"
   },
-  "homepage": "https://github.com/lakshaykamat/taylor-swift#readme"
+  "homepage": "https://github.com/lakshaykamat/taylor-swift#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.30",
+    "@typescript-eslint/parser": "^7.3.1",
+    "jest": "^29.7.0",
+    "jsmin": "^1.0.1",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.3"
+  }
 }
