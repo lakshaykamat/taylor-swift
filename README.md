@@ -1,6 +1,6 @@
-# taylor-swift v3.2.4
-Welcome to the Taylor Swift Library! This npm package provides utilities for Taylor Swift fans, including music, albums, and quotes. Perfect for Swifties and enthusiasts.
-![Taylor Swift](https://news.harvard.edu/wp-content/uploads/2023/07/202307x_swift_1407_AP23198726852529.jpg)
+# taylor-swift v3.2.2
+
+![Taylor Swift](https://i.pinimg.com/564x/a7/45/8a/a7458a202b1226add8371cb039280c01.jpg)
 
 ## Installation
 
