@@ -9,4 +9,4 @@ const taylor = {
   song,
 };
 export default taylor;
-export { Album, Song, AlbumWithTracks, Quote, quote, album, song };
+export { Album, Song, AlbumWithTracks, Quote };
