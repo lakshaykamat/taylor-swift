@@ -1,6 +1,6 @@
 {
   "name": "taylor-swift",
-  "version": "3.2.6",
+  "version": "3.3.0",
   "description": "Taylor swift songs, albums and quotes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -39,7 +39,7 @@
   "bugs": {
     "url": "https://github.com/lakshaykamat/taylor-swift/issues"
   },
-  "homepage": "https://github.com/lakshaykamat/taylor-swift#readme",
+  "homepage": "https://lakshaykamat.github.io/taylor-swift/",
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/jest": "^29.5.12",
