@@ -22,23 +22,29 @@ The Taylor Swift Library provides functions for interacting with Taylor Swift's 
 
 ### Songs
 
-- `taylor.song.random()`: Returns a random Taylor Swift song.
-- `taylor.song.filterByAlbum(year)`: Returns songs released by Taylor Swift in a specific year.
-- `taylor.song.get(songName)`: Returns lyrics of a Taylor Swift song by its name.
-- `taylor.song.all()`: Returns all songs by Taylor Swift.
+| **Funtcion**                           | **Description**                                             |
+| -------------------------------------- | ----------------------------------------------------------- |
+| `taylor.song.random()`                 | Returns a random Taylor Swift song.                         |
+| `taylor.song.filterByAlbum(albumName)` | Returns songs released by Taylor Swift in a specific album. |
+| `taylor.song.all()`                    | Returns all songs by Taylor Swift.                          |
+| `taylor.song.get(songName)`            | Returns a Taylor Swift song by its name.                    |
 
 ### Albums
 
-- `taylor.album.filterByYear(year)`: Returns albums released by Taylor Swift in a given year.
-- `taylor.album.get(albumName)`: Returns a specific Taylor Swift album by name.
-- `taylor.album.all()`: Returns all Taylor Swift albums.
-- `taylor.album.random()`: Returns a randomly selected Taylor Swift album.
+| **Funtcion**                      | **Description**                                          |
+| --------------------------------- | -------------------------------------------------------- |
+| `taylor.album.random()`           | Returns a randomly selected Taylor Swift album.          |
+| `taylor.album.all()`              | Returns all Taylor Swift albums.                         |
+| `taylor.album.get(albumName)`     | Returns a specific Taylor Swift album by name.           |
+| `taylor.album.filterByYear(year)` | Returns albums released by Taylor Swift in a given year. |
 
 ### Quote
 
-- `taylor.quote.random()`: Returns a randomly selected Taylor Swift quote.
-- `taylor.quote.filterBySong(songName)`: Returns quotes from a Taylor Swift song by its name.
-- `taylor.quote.filterByAlbum(albumName)`: Returns quotes from a Taylor Swift album by its name.
+| **Funtcion**                            | **Description**                                       |
+| --------------------------------------- | ----------------------------------------------------- |
+| `taylor.quote.random()`                 | Returns a randomly selected Taylor Swift quote.       |
+| `taylor.quote.filterBySong(songName)`   | Returns quotes from a Taylor Swift song by its name.  |
+| `taylor.quote.filterByAlbum(albumName)` | Returns quotes from a Taylor Swift album by its name. |
 
 ## Example
 
