@@ -1,4 +1,5 @@
-import taylor, { Album, AlbumWithTracks, Song, Quote } from "../index";
+import taylor from "../index";
+import { Album, AlbumWithTracks, Song, Quote } from "../types";
 
 // Type guard function to check if an object conforms to a specific type
 function isType<T>(obj: any, keys: (keyof T)[]): obj is T {
