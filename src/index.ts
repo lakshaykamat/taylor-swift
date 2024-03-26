@@ -1,10 +1,5 @@
-import album from "./lib/album";
+import album from "./lib/album/index";
 import song from "./lib/song";
 import quote from "./lib/quotes";
 
-const taylor = {
-  album,
-  quote,
-  song,
-};
-export default taylor;
+export { album, quote, song };
